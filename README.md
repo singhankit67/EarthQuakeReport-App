@@ -6,8 +6,8 @@ Created a basic <b>earthquake tracker app</b> that gives information about the e
 
 ### Mainscreen
 
-<img src=Screenshot_20200505-144353_QukaeReport[1].jpg width="200" height="400">
+<img src="Images/Screenshot_20200505-144353_QukaeReport[1].jpg" width="200" height="400">
 
 ### Userpreferences Screen
 
-<img src="Screenshot_20200505-144353_QukaeReport[1].jpg" width="200" height="400">
+<img src="Images/Screenshot_20200505-182706_QukaeReport[1].jpg" width="200" height="400">
